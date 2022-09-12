@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ' MAD-X-G4Beamline'
+title: 'Auto MAD-X to G4Beamline'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -10,5 +10,5 @@ type: software
 authors:
   - given-names: Steve
     family-names: Padden
-    email: Steve.padden@liverpool.ac.uk
+    email: Spadden@liverpool.ac.uk
     affiliation: University Of Liverpool
